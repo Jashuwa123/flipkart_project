@@ -1,0 +1,3 @@
+Hi,
+
+Hello Everyone, welcome to shell scripting.......
